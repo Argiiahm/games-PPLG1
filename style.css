@@ -11,7 +11,6 @@ body {
     background: url(/WhatsApp Image 2024-10-02 at 08.29.32.jpeg);
     background-size: 100%;
     /* background-repeat: no-repeat; */
-    border-bottom: 1px solid black;
     height: 24vh;
     animation: masuk 1s ease-in-out;
 }
@@ -38,17 +37,15 @@ main {
     align-items: center;
     margin: 20px 0;
     text-align: center;
-    /* border: 1px solid black; */
+    border: 1px solid black;
     height: 80vh;
     border-radius: 10px;
     background-color: transparent;
     backdrop-filter: blur(5px);
 }
 main h1 {
-    color:  white;
-    text-shadow: 2px 2px 2px orange;
+    color:  black;
 }
 main p {
-    color: white;
-    text-shadow: 3px 3px 3px black;
+    color: black;
 }
