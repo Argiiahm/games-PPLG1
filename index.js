@@ -18,7 +18,7 @@ function quest() {
     ];
     const barang = [
         "Pulpen","Penghapus","Tipe X",
-        "Spidol","Tas","Gabawa Apa2"
+        "Spidol","Tas","Bebas"
     ];
 
     const RandomLokasi = lokasi[Math.floor(Math.random() * lokasi.length)];
